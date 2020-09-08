@@ -56,7 +56,6 @@ spec:
         - --random-delay=false
         - --random-error=false
         - --ui-message='Welcome to Flux'
-        - --intentionally-introduce-an-error
         env:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
