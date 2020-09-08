@@ -1,0 +1,1 @@
+{"jobID":"2aed7e2c-d0e2-d1c1-e845-01408caaa3e3","spec":{"type":"policy","cause":{"Message":"","User":"Felix Glaser \u003cglaser@b1-systems.de\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
